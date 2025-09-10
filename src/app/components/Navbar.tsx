@@ -10,7 +10,7 @@ export default function Navbar() {
   return (
     <nav className="fixed top-0 left-0 w-full bg-white dark:bg-gray-900 shadow z-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex justify-between items-center h-16">
-        <div className="text-2xl font-bold text-purple-500">My Potifolio</div>
+        <div className="text-2xl font-bold text-purple-500">My Portfolio</div>
         <div className="hidden md:flex space-x-6">
           <a href="#hero" className="text-gray-700 dark:text-gray-200 hover:text-purple-500">Home</a>
           <a href="#about" className="text-gray-700 dark:text-gray-200 hover:text-purple-500">About</a>
